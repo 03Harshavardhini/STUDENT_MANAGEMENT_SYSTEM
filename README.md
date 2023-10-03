@@ -1,7 +1,7 @@
 # STUDENT_MANAGEMENT_SYSTEM
 Step 1: Install Python
 
-Step 2: Install Pycharm | Create Project | Install Library
+Step 2: Install Jupyter Notebook | Create Project | Install Library
 
 Step 3: Create Project
 
